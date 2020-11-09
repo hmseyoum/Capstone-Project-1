@@ -1,5 +1,5 @@
 # Capstone-Project-1
 
-## Prediction of House Prices in the State of Washington
+## Using Machine Learning to Predict House Prices in the State of Washington
 
-This repo contains my capstone project and final report.
+This repo contains the different stages of my capstone project and the final report.
